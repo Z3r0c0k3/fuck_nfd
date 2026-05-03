@@ -93,7 +93,7 @@ def parse_drop_paths(data: str):
 class App:
     def __init__(self, root):
         self.root = root
-        root.title("NFD포맷 파괴광선")
+        root.title("씨@발 NFD 처단기")
         root.geometry("780x560")
 
         top = ttk.Frame(root, padding=10)
